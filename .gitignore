@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Секреты / сессии — НИКОГДА не публиковать
+tg_session.session
+*.session
+*.session-journal
+
+# Локальные настройки Claude Code (машинно-специфичные)
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
+
+# Персональные данные исполнителей (в т.ч. несовершеннолетних) —
+# используются локально скриптами (download_bashkir_audio.py,
+# find_wikisource_urls.py), в репозиторий публикуются только версии
+# без колонки "Исполнитель": bashkir_poems_*_public.csv
+/bashkir_poems_bashkir.csv
+/bashkir_poems_russian.csv
+
+# Сторонний инструмент (git-клон github.com/MahmoudAshraf97/ctc-forced-aligner) —
+# не вендорим чужой репозиторий; клонировать отдельно, см. README.md
+/ctc-forced-aligner/
+
+# Аудио/PDF-данные — большие бинарные файлы, не для git (см. README.md,
+# как каждая папка воспроизводится соответствующим скриптом).
+# Внутри каждой оставляем только сгенерированную сводную статистику.
+/books/*
+!/books/stats.csv
+/pairs/*
+!/pairs/stats.csv
+/pairs_poems/*
+!/pairs_poems/stats.csv
+/elang_data/*
+!/elang_data/stats.csv
+/common_voice_pairs/*
+!/common_voice_pairs/stats.csv
+/common_voice_pairs_poems/*
+!/common_voice_pairs_poems/stats.csv
+/common_voice_elang/*
+!/common_voice_elang/stats.csv
+/audio_bashkir/
+/pdf/
+/kitaptar_collections/
+
+# Осиротевшие/сгенерированные крупные файлы (см. REPORT.md)
+/train.tsv
+/paths.txt
+/asarzar_4_tom.pdf
+/cache_sample.txt
+
+# Результаты обучения/чекпоинты Whisper и файловый кэш признаков
+whisper-ba/
+*/feature_cache/
+*.readable_cache.json
+training_curve.png
+
+# Результаты прогонов ASR-оценки (легко перегенерировать)
+*_asr_eval.csv
