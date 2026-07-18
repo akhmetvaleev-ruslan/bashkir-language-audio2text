@@ -1,0 +1,43 @@
+Processing Абдулхаҡ Игебаев / Әсә күңеле (1 file(s)) ...
+  097_Ибрагимова Мадина.alignment.json: 6 clips
+Processing Аҡмулла / Башҡорттарым, уҡыу кәрәк! (2 file(s)) ...
+  008_Мамбетова Лейсан.alignment.json: 9 clips
+  143_Набиуллин Инсаф.alignment.json: 9 clips
+Processing Гульфия Юнусова / Башкортостан (3 file(s)) ...
+  054_Гумерова Гальсар.alignment.json: 7 clips
+  145_Зайнетдинов Зуфар.alignment.json: 7 clips
+  148_Зайнетдинов Алмаз.alignment.json: 7 clips
+Processing Гүзәл Ситдиҡова / Әй ашыҡтың ,әсәй (1 file(s)) ...
+  100_Кинзябаева Вахида.alignment.json: 7 clips
+Processing Кәтибә Кинйәбулатова / Барыһы бар (1 file(s)) ...
+  082_Хаерзаманова Ралина.alignment.json: 1 clips
+Processing Мостай Кәрим / Рус түгелмен, ләкин россиян мин (1 file(s)) ...
+  102_Мардиева Ленария.alignment.json: 25 clips
+Processing Рәми Ғарипов / Сыйырсыҡ (2 file(s)) ...
+  050_Нутфуллина Алсу.alignment.json: 6 clips
+  078_Динисламов Арслан.alignment.json: 5 clips
+Processing Рәми Ғарипов / Тыуған тел (9 file(s)) ...
+  019_Ахмеров Баязит.alignment.json: 5 clips
+  025_Хусаинова Шафига.alignment.json: 5 clips
+  065_Ахметшина Радмила.alignment.json: 5 clips
+  076_Кинзягулова Гульназ.alignment.json: 5 clips
+  080_Ханов Аслан.alignment.json: 5 clips
+  086_Галимова Зухра.alignment.json: 5 clips
+  087_Газизова Айлина.alignment.json: 5 clips
+  137_Мустафаева Гюльнара.alignment.json: 5 clips
+  147_Галиуллин Артур.alignment.json: 5 clips
+Processing Салауат Юлаев / Тыуған илем (1 file(s)) ...
+  121_Абдрахманова Нургуль.alignment.json: 4 clips
+Processing Салауат Юлаев / Уралым (2 file(s)) ...
+  104_Сиражетдинова Залифа.alignment.json: 10 clips
+  142_Фахрисламов Адель.alignment.json: 10 clips
+Processing Шәихзада Бабич / Кышкы юлда (1 file(s)) ...
+  074_Галимова Азалия.alignment.json: 5 clips
+Processing Шәихзада Бабич / Халҡым өсөн (2 file(s)) ...
+  043_Залилова Гульдар.alignment.json: 5 clips
+  115_Кусмаева Рианна.alignment.json: 5 clips
+Processing Шәихзада Бабич / Эй,китап! (1 file(s)) ...
+  112_Биккинина Ляйсан.alignment.json: 4 clips
+
+Done. 177 clips written to common_voice_pairs_poems\clips
+Metadata written to common_voice_pairs_poems\train.tsv

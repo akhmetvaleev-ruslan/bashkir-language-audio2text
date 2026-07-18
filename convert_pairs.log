@@ -1,0 +1,260 @@
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1472) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1472) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1408) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1536) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1344) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1344) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1408) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1344) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1408) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1408) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1280) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1536) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1152) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1216) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1024) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1880] error: part2_3_length (1088) too large for available bit count (968)
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+[C:\vcpkg\buildtrees\mpg123\src\-66150af195.clean\src\libmpg123\layer3.c:INT123_do_layer3():1908] error: dequantization failed!
+Processing Айгиз Баймөхәмәтов / Ҡалдырма, әсәй (1 file(s)) ...
+  Ҡалдырма, әсәй.alignment.json: 886 clips
+Processing Башҡорт халыҡ ижады / Урал батыр (7 file(s)) ...
+  Урал батыр 1-се бүлек.alignment.json: 69 clips
+  Урал батыр 2-се бүлек.alignment.json: 162 clips
+  Урал батыр 3-сө бүлек.alignment.json: 86 clips
+  Урал батыр 4-се бүлек.alignment.json: 80 clips
+  Урал батыр 5-се бүлек.alignment.json: 164 clips
+  Урал батыр 6-сы бүлек.alignment.json: 53 clips
+  Урал батыр 7-се бүлек.alignment.json: 22 clips
+Processing Гөлнур Яҡупова / Ҡатындар (1 file(s)) ...
+  Ҡатындар.alignment.json: 717 clips
+Processing Зәйнәб Биишева / Кәмһетелгәндәр (1 file(s)) ...
+  Кәмһетелгәндәр.alignment.json: 223 clips
+Processing Зәйнәб Биишева / Оло Эйек буйында (1 file(s)) ...
+  Оло Эйек буйында.alignment.json: 356 clips
+Processing Мостай Кәрим / Ауыл адвокаттары (5 file(s)) ...
+  Мостай Кәрим Ауыл адвокаттары 1 часть.alignment.json: 737 clips
+  Мостай Кәрим Ауыл адвокаттары 2 часть.alignment.json: 627 clips
+  Мостай Кәрим Ауыл адвокаттары 3 глава.alignment.json: 780 clips
+  Мостай Кәрим Ауыл адвокаттары 4 глава.alignment.json: 705 clips
+  Мостай Кәрим Ауыл адвокаттары 5 глава.alignment.json: 653 clips
+Processing Мостай Кәрим / Мөғжизәләр, Иблес йомошсоһо (1 file(s)) ...
+  Мостай Кәрим Мөғжизәләр, Иблес йомошсоһо.alignment.json: 376 clips
+Processing Мостай Кәрим / Оҙон-оҙаҡ бала саҡ (6 file(s)) ...
+  Оҙон-оҙаҡ бала саҡ 1,2 өлөш.alignment.json: 1198 clips
+  Оҙон-оҙаҡ бала саҡ 3,4 өлөш.alignment.json: 2184 clips
+  Оҙон-оҙаҡ бала саҡ 5,6 өлөш.alignment.json: 1888 clips
+  Оҙон-оҙаҡ бала саҡ 7 өлөш.alignment.json: 1158 clips
+  Оҙон-оҙаҡ бала саҡ 8 өлөш.alignment.json: 1052 clips
+  Оҙон-оҙаҡ бала саҡ 9 өлөш.alignment.json: 1213 clips
+Processing Мостай Кәрим / Өс таған (6 file(s)) ...
+  Өс таған 1 глава.alignment.json: 336 clips
+  Өс таған 2 глава.alignment.json: 481 clips
+  Өс таған 3 глава.alignment.json: 333 clips
+  Өс таған 4 глава.alignment.json: 516 clips
+  Өс таған 5 глава.alignment.json: 379 clips
+  Өс таған 6 глава.alignment.json: 618 clips
+Processing Яныбай Хамматов / Аҡман-тоҡман (5 file(s)) ...
+  Аҡман-тоҡман 1.alignment.json: 192 clips
+  Аҡман-тоҡман 2.alignment.json: 176 clips
+  Аҡман-тоҡман 3.alignment.json: 192 clips
+  Аҡман-тоҡман 4.alignment.json: 185 clips
+  Аҡман-тоҡман 5.alignment.json: 163 clips
+Processing Ҡол Ғәли / Йософ ҡиссаһы (8 file(s)) ...
+  Йософ ҡиссаһы 1-се бүлек.alignment.json: 257 clips
+  Йософ ҡиссаһы 2-се бүлек.alignment.json: 242 clips
+  Йософ ҡиссаһы 3-се бүлек.alignment.json: 260 clips
+  Йософ ҡиссаһы 4-се бүлек.alignment.json: 226 clips
+  Йософ ҡиссаһы 5-се бүлек.alignment.json: 188 clips
+  Йософ ҡиссаһы 6-се бүлек.alignment.json: 144 clips
+  Йософ ҡиссаһы 7-се бүлек.alignment.json: 188 clips
+  Йософ ҡиссаһы 8-се бүлек.alignment.json: 327 clips
+Processing Һәҙиә Дәүләтшина / Айбикә (1 file(s)) ...
+  Айбикә.alignment.json: 303 clips
+Processing Һәҙиә Дәүләтшина / Ырғыҙ (5 file(s)) ...
+  Ырғыҙ 1,2 се бүлектәр.alignment.json: 814 clips
+  Ырғыҙ 3,4 се бүлектәр.alignment.json: 753 clips
+  Ырғыҙ 5,6 сы бүлектәр.alignment.json: 906 clips
+  Ырғыҙ 7,8 се бүлектәр.alignment.json: 775 clips
+  Ырғыҙ 9,10 сы бүлектәр.alignment.json: 836 clips
+
+Done. 25179 clips written to common_voice_pairs\clips
+Metadata written to common_voice_pairs\train.tsv
