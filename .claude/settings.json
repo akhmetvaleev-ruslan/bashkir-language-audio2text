@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"d:/Projects/bash_language_spell\")",
+      "Bash(python -c ' *)",
+      "Bash(python \"C:/Users/27C6~1/AppData/Local/Temp/claude/d--Projects-bash-language-spell/ec68fa5d-5dd6-4793-977e-2931c13472e1/scratchpad/smoketest_resume.py\")",
+      "Bash(python \"C:/Users/27C6~1/AppData/Local/Temp/claude/d--Projects-bash-language-spell/ec68fa5d-5dd6-4793-977e-2931c13472e1/scratchpad/smoketest_resume2.py\")",
+      "Bash(python \"C:/Users/27C6~1/AppData/Local/Temp/claude/d--Projects-bash-language-spell/ec68fa5d-5dd6-4793-977e-2931c13472e1/scratchpad/smoketest_debug.py\")",
+      "Bash(python -c \"import transformers, inspect; print\\(transformers.__file__\\)\")",
+      "Bash(python -c \"import torch; print\\(torch.cuda.is_available\\(\\), torch.cuda.get_device_name\\(0\\) if torch.cuda.is_available\\(\\) else 'no gpu'\\)\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 generate_folder_stats.py)",
+      "Bash(python3 -c \"import sys; sys.stdout.reconfigure\\(encoding='utf-8'\\); print\\(sys.stdin.buffer.read\\(\\).decode\\('utf-8', errors='replace'\\)\\)\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(open\\('books_metadata.json', encoding='utf-8'\\)\\); print\\(len\\(d\\)\\)\")",
+      "Bash(python3 -c \"import torch; print\\('cuda available:', torch.cuda.is_available\\(\\)\\)\")",
+      "Bash(git -C ctc-forced-aligner remote -v)",
+      "Bash(git -C ctc-forced-aligner rev-parse HEAD)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(git fetch *)",
+      "Bash(MSYS_NO_PATHCONV=1 git show origin/main:.gitignore)",
+      "Bash(git checkout *)",
+      "Bash(git merge *)",
+      "Bash(git stash *)"
+    ]
+  }
+}
