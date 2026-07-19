@@ -26,7 +26,12 @@
       "Bash(git merge *)",
       "Bash(git stash *)",
       "Bash(git commit *)",
-      "Bash(python3 -c \"print\\(open\\('.gitignore', encoding='utf-8'\\).read\\(\\)[:200]\\)\")"
+      "Bash(python3 -c \"print\\(open\\('.gitignore', encoding='utf-8'\\).read\\(\\)[:200]\\)\")",
+      "Bash(python -c \"import pandas, jiwer; print\\('ok'\\)\")",
+      "Bash(python -m pip show jiwer pandas)",
+      "Bash(python \"C:/Users/27C6~1/AppData/Local/Temp/claude/d--Projects-bash-language-spell/8ef56638-cc45-4616-b1dc-ea81c8e51ec2/scratchpad/explore.py\")",
+      "Bash(python \"C:/Users/27C6~1/AppData/Local/Temp/claude/d--Projects-bash-language-spell/8ef56638-cc45-4616-b1dc-ea81c8e51ec2/scratchpad/clean_and_compare.py\")",
+      "Bash(git check-ignore *)"
     ]
   }
 }
